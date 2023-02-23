@@ -1,0 +1,3509 @@
+[
+    {
+        "_id": "635445138151c9edc5dd51f6",
+        "__v": 0
+    },
+    {
+        "_id": "6354453cfd11fdae7f0a3440",
+        "__v": 0
+    },
+    {
+        "_id": "6354459b4198e6cd8d0a4ee3",
+        "campoCod": 7767,
+        "campoDesc1": "ok",
+        "campoDesc2": "ok",
+        "__v": 0
+    },
+    {
+        "_id": "63565843d2688240607bf33e",
+        "campoCod": 7767,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "63565888d2688240607bf350",
+        "campoCod": 7767,
+        "campoDesc1": "dfgh",
+        "campoDesc2": "ghh",
+        "__v": 0
+    },
+    {
+        "_id": "63567692d2688240607bf3e2",
+        "campoCod": 1234,
+        "campoDesc1": "SupTestUpdatedTM",
+        "campoDesc2": "InfTestsdfdf",
+        "__v": 0
+    },
+    {
+        "_id": "635676d7d2688240607bf408",
+        "campoCod": 1234,
+        "campoDesc1": "Interpig",
+        "campoDesc2": "Cofrinho",
+        "__v": 0
+    },
+    {
+        "_id": "6356775bd2688240607bf414",
+        "campoCod": 1234,
+        "campoDesc1": "SupTestUpdatedTM",
+        "campoDesc2": "InfTestsdfdf",
+        "__v": 0
+    },
+    {
+        "_id": "635678bdd2688240607bf424",
+        "campoCod": 7767,
+        "campoDesc1": "SupTestUpdatedTM",
+        "campoDesc2": "InfTestsdfdf",
+        "__v": 0
+    },
+    {
+        "_id": "63567d11199c103d65bd8d52",
+        "campoCod": 32232,
+        "campoDesc1": "SDDADS",
+        "campoDesc2": "SADASD",
+        "__v": 0
+    },
+    {
+        "_id": "63567d59199c103d65bd8d5a",
+        "campoCod": 23123,
+        "campoDesc1": "SEADSAD",
+        "campoDesc2": "ASDASAD",
+        "__v": 0
+    },
+    {
+        "_id": "63567d62199c103d65bd8d60",
+        "campoCod": 32423,
+        "campoDesc1": "SDDSAWD",
+        "campoDesc2": "SWQDWE",
+        "__v": 0
+    },
+    {
+        "_id": "63567d91199c103d65bd8d66",
+        "campoCod": 12,
+        "campoDesc1": "teste",
+        "campoDesc2": "OK",
+        "__v": 0
+    },
+    {
+        "_id": "635680fe53098a6a02daaff1",
+        "campoCod": 45,
+        "campoDesc1": "ok428",
+        "campoDesc2": "ok428",
+        "__v": 0
+    },
+    {
+        "_id": "63568cc453098a6a02daaffa",
+        "campoCod": 3552443,
+        "campoDesc1": "sdfasfdf",
+        "campoDesc2": "sadfsdf",
+        "__v": 0
+    },
+    {
+        "_id": "6356a02299ddeed818fd693d",
+        "campoCod": 49,
+        "campoDesc1": "SupTest",
+        "campoDesc2": "InfTest",
+        "__v": 0
+    },
+    {
+        "_id": "6356a02f64e2a1ae51e4f3b6",
+        "campoCod": 49,
+        "campoDesc1": "SupTest",
+        "campoDesc2": "InfTest",
+        "__v": 0
+    },
+    {
+        "_id": "6356a0506717740ac6c36c21",
+        "campoCod": 49,
+        "campoDesc1": "SupTest",
+        "campoDesc2": "InfTest",
+        "__v": 0
+    },
+    {
+        "_id": "6356a1aaf41ad7e2400eb6be",
+        "campoCod": 546346,
+        "campoDesc1": "sdfdf",
+        "campoDesc2": "sdfsdf",
+        "__v": 0
+    },
+    {
+        "_id": "6356a200f41ad7e2400eb6c3",
+        "campoCod": 98,
+        "campoDesc1": "sdfsdfsdf",
+        "campoDesc2": "sdfsf",
+        "__v": 0
+    },
+    {
+        "_id": "6356a20ff41ad7e2400eb6c7",
+        "campoCod": 3425235,
+        "campoDesc1": "sdfafsad",
+        "campoDesc2": "asdasd",
+        "__v": 0
+    },
+    {
+        "_id": "6356a497f41ad7e2400eb6d5",
+        "campoCod": 6,
+        "campoDesc1": "dsafa",
+        "campoDesc2": "asdsd",
+        "__v": 0
+    },
+    {
+        "_id": "6356a4e4f41ad7e2400eb6dc",
+        "campoCod": 45435,
+        "campoDesc1": "fdf",
+        "campoDesc2": "sdfdf",
+        "__v": 0
+    },
+    {
+        "_id": "6356aa28f41ad7e2400eb6f6",
+        "campoCod": 46,
+        "campoDesc1": "OK",
+        "campoDesc2": "OK",
+        "__v": 0
+    },
+    {
+        "_id": "6356b1e6f41ad7e2400eb72b",
+        "campoCod": 78,
+        "campoDesc1": "fgdfg",
+        "campoDesc2": "sdfgdfsg",
+        "__v": 0
+    },
+    {
+        "_id": "6356cc89e6bdea621be6096c",
+        "campoCod": 789,
+        "campoDesc1": "Editado",
+        "campoDesc2": "OK",
+        "__v": 0
+    },
+    {
+        "_id": "6356d1ab9bf2e99e6d647b4e",
+        "campoCod": 75,
+        "campoDesc1": "DSFDSFDSF",
+        "campoDesc2": "DSFDSAF",
+        "__v": 0
+    },
+    {
+        "_id": "6356d1e35146640d72535f70",
+        "campoCod": 85,
+        "campoDesc1": "EDITED",
+        "campoDesc2": "OK.....",
+        "__v": 0
+    },
+    {
+        "_id": "6356d279d24d1d75a5b517e0",
+        "campoCod": 96,
+        "campoDesc1": "ProntoOKOKOK",
+        "campoDesc2": "OK",
+        "__v": 0
+    },
+    {
+        "_id": "6356d7ee412a59b643fd60ec",
+        "campoCod": 93,
+        "campoDesc1": "sdfagfsdf",
+        "campoDesc2": "sdafsdf",
+        "__v": 0
+    },
+    {
+        "_id": "6357f8fb17c7943ced2ec6f1",
+        "campoCod": 77,
+        "campoDesc1": " p!@#$%ˆ&*( Ç",
+        "campoDesc2": "LOGO ANTIGA branca00",
+        "__v": 0
+    },
+    {
+        "_id": "6357faaa17c7943ced2ec70e",
+        "campoCod": 400043100,
+        "campoDesc1": "Porta Cartão Lar",
+        "campoDesc2": "anja - 1 unidade",
+        "__v": 0
+    },
+    {
+        "_id": "6357fb6417c7943ced2ec714",
+        "campoCod": 7899109640315,
+        "campoDesc1": "Álcool Gel      ",
+        "campoDesc2": " 60 ml 1 unidade",
+        "__v": 0
+    },
+    {
+        "_id": "6357fc1c8237c34982ae1066",
+        "campoCod": 323232,
+        "campoDesc1": "String",
+        "campoDesc2": "String",
+        "__v": 0
+    },
+    {
+        "_id": "6357fc388237c34982ae106b",
+        "campoCod": 45,
+        "campoDesc1": "23",
+        "campoDesc2": "q,w.e;r:r'kkk˜",
+        "__v": 0
+    },
+    {
+        "_id": "6357fc588237c34982ae1070",
+        "campoDesc1": "dsggf",
+        "campoDesc2": "sdsdg",
+        "__v": 0
+    },
+    {
+        "_id": "6357fd8be00f7b0d7b34a79a",
+        "campoCod": 1234,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357fd90e00f7b0d7b34a79e",
+        "campoCod": 123456,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357fd95e00f7b0d7b34a7a2",
+        "campoCod": 12345678,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357fd9be00f7b0d7b34a7a6",
+        "campoCod": 1234567890,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357fda2e00f7b0d7b34a7aa",
+        "campoCod": 123456789012,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357fda6e00f7b0d7b34a7ae",
+        "campoCod": 12345678901234,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357ff4ae00f7b0d7b34a7b8",
+        "campoCod": 12345,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357ff58e00f7b0d7b34a7bc",
+        "campoCod": 12345,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357ff5fe00f7b0d7b34a7c0",
+        "campoCod": 1234567,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357ff6ce00f7b0d7b34a7c4",
+        "campoCod": 123456789,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357ff6fe00f7b0d7b34a7c8",
+        "campoCod": 12345678901,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6357ff73e00f7b0d7b34a7cc",
+        "campoCod": 1234567890123,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "635800f8e00f7b0d7b34a7d4",
+        "campoCod": 1234567890123,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "63580119e00f7b0d7b34a7d8",
+        "campoCod": 7891000894562,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "63580140e00f7b0d7b34a7dc",
+        "campoCod": 239,
+        "campoDesc1": "hvg",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "635833a5e00f7b0d7b34a7e9",
+        "campoCod": 5010,
+        "campoDesc1": "Babador",
+        "campoDesc2": "FRUTAS",
+        "__v": 0
+    },
+    {
+        "_id": "635833b9e00f7b0d7b34a7f0",
+        "campoCod": 5020,
+        "campoDesc1": "BABADOR",
+        "campoDesc2": "FUN",
+        "__v": 0
+    },
+    {
+        "_id": "6358340ce00f7b0d7b34a7f6",
+        "campoCod": 10001280,
+        "campoDesc1": "Bandana Dog Xadrez",
+        "campoDesc2": "Branca G",
+        "__v": 0
+    },
+    {
+        "_id": "6358341ce00f7b0d7b34a7fc",
+        "campoCod": 10001290,
+        "campoDesc1": "BANDANA DOG XADREZ",
+        "campoDesc2": "BRANCA GG",
+        "__v": 0
+    },
+    {
+        "_id": "63583472e00f7b0d7b34a802",
+        "campoCod": 10001270,
+        "campoDesc1": "Bandana Dog Xadrez",
+        "campoDesc2": "Branca M ",
+        "__v": 0
+    },
+    {
+        "_id": "635834f8e00f7b0d7b34a808",
+        "campoCod": 10001260,
+        "campoDesc1": "Bandana Dog Xadrez",
+        "campoDesc2": "Branca P",
+        "__v": 0
+    },
+    {
+        "_id": "6358350ae00f7b0d7b34a80e",
+        "campoCod": 10001240,
+        "campoDesc1": "Bandana Dog",
+        "campoDesc2": "Xadrez G",
+        "__v": 0
+    },
+    {
+        "_id": "63583514e00f7b0d7b34a814",
+        "campoCod": 10001230,
+        "campoDesc1": "Bandana Dog",
+        "campoDesc2": "Xadrez M",
+        "__v": 0
+    },
+    {
+        "_id": "6358389ee00f7b0d7b34a81f",
+        "campoCod": 10001220,
+        "campoDesc1": "Bandana Dog",
+        "campoDesc2": "Xadrez P",
+        "__v": 0
+    },
+    {
+        "_id": "635838aae00f7b0d7b34a825",
+        "campoCod": 10001201,
+        "campoDesc1": "Bandana Dog",
+        "campoDesc2": "Xadrez PP",
+        "__v": 0
+    },
+    {
+        "_id": "63583b80e00f7b0d7b34a82c",
+        "campoCod": 78900138,
+        "campoDesc1": "Calça Feminina Sar",
+        "campoDesc2": "arja ON Inter 36",
+        "__v": 0
+    },
+    {
+        "_id": "63583c93e00f7b0d7b34a832",
+        "campoCod": 78900139,
+        "campoDesc1": "Calca Feminina Sar",
+        "campoDesc2": "arja ON Inter 38",
+        "__v": 0
+    },
+    {
+        "_id": "63583dea6eec726b535e99e7",
+        "campoCod": 311200,
+        "campoDesc1": "Baralho Inter",
+        "campoDesc2": "Estojo Duplo",
+        "__v": 0
+    },
+    {
+        "_id": "635840046eec726b535e99f5",
+        "campoCod": 200533,
+        "campoDesc1": "Bermuda Cinza",
+        "campoDesc2": "Escuro e Preto G",
+        "__v": 0
+    },
+    {
+        "_id": "6358401d6eec726b535e99fb",
+        "campoCod": 200534,
+        "campoDesc1": "Bermuda Cinza",
+        "campoDesc2": "Escuro e Preto GG",
+        "__v": 0
+    },
+    {
+        "_id": "635840916eec726b535e9a01",
+        "campoCod": 200532,
+        "campoDesc1": "Bermuda Cinza",
+        "campoDesc2": "Escuro e Preto M",
+        "__v": 0
+    },
+    {
+        "_id": "635840bb6eec726b535e9a07",
+        "campoCod": 200531,
+        "campoDesc1": "Bermuda Cinza",
+        "campoDesc2": "Escuro e Preto P",
+        "__v": 0
+    },
+    {
+        "_id": "635840e36eec726b535e9a0d",
+        "campoCod": 200513,
+        "campoDesc1": "Bermuda",
+        "campoDesc2": "Cinza Mescla G",
+        "__v": 0
+    },
+    {
+        "_id": "635840fa6eec726b535e9a14",
+        "campoCod": 200514,
+        "campoDesc1": "Bermuda",
+        "campoDesc2": "Cinza Mescla GG",
+        "__v": 0
+    },
+    {
+        "_id": "6358410b6eec726b535e9a1a",
+        "campoCod": 200512,
+        "campoDesc1": "Bermuda",
+        "campoDesc2": "Cinza Mescla M",
+        "__v": 0
+    },
+    {
+        "_id": "635841226eec726b535e9a20",
+        "campoCod": 200511,
+        "campoDesc1": "Bermuda",
+        "campoDesc2": "Cinza Mescla P",
+        "__v": 0
+    },
+    {
+        "_id": "6358413a6eec726b535e9a26",
+        "campoCod": 78900011,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Cinza Mescla G",
+        "__v": 0
+    },
+    {
+        "_id": "635841506eec726b535e9a2c",
+        "campoCod": 78900012,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Cinza Mescla GG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac068a4695edd1e89fd38",
+        "campoCod": 78900010,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Cinza Mescla M",
+        "__v": 0
+    },
+    {
+        "_id": "635ac07ba4695edd1e89fd3f",
+        "campoCod": 78900009,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Cinza Mescla P",
+        "__v": 0
+    },
+    {
+        "_id": "635ac0d2a4695edd1e89fd4a",
+        "campoCod": 78900013,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Cinza Mescla XGG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac116a4695edd1e89fd55",
+        "campoCod": 78900020,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Cinza Mescla XXGG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac123a4695edd1e89fd5b",
+        "campoCod": 78900016,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "635ac130a4695edd1e89fd61",
+        "campoCod": 78900017,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Preta GG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac13ca4695edd1e89fd67",
+        "campoCod": 78900015,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Preta M",
+        "__v": 0
+    },
+    {
+        "_id": "635ac147a4695edd1e89fd6d",
+        "campoCod": 78900014,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Preta P",
+        "__v": 0
+    },
+    {
+        "_id": "635ac157a4695edd1e89fd73",
+        "campoCod": 78900018,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Preta XGG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac166a4695edd1e89fd79",
+        "campoCod": 78900021,
+        "campoDesc1": "Bermuda Moletinh",
+        "campoDesc2": "Preta XXGG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac170a4695edd1e89fd7f",
+        "campoCod": 300170,
+        "campoDesc1": "Bloquinho",
+        "campoDesc2": "Interpig Sanguel",
+        "__v": 0
+    },
+    {
+        "_id": "635ac17ca4695edd1e89fd85",
+        "campoCod": 300140,
+        "campoDesc1": "Bloquinho",
+        "campoDesc2": "Interpig Face",
+        "__v": 0
+    },
+    {
+        "_id": "635ac25aa4695edd1e89fd8b",
+        "campoCod": 300130,
+        "campoDesc1": "Bloquinho",
+        "campoDesc2": "Listrado",
+        "__v": 0
+    },
+    {
+        "_id": "635ac263a4695edd1e89fd91",
+        "campoCod": 300160,
+        "campoDesc1": "Bloquinho",
+        "campoDesc2": "Pantone",
+        "__v": 0
+    },
+    {
+        "_id": "635ac273a4695edd1e89fd97",
+        "campoCod": 5110,
+        "campoDesc1": "Body Infantil",
+        "campoDesc2": "Fruta RN",
+        "__v": 0
+    },
+    {
+        "_id": "635ac280a4695edd1e89fd9d",
+        "campoCod": 78900161,
+        "campoDesc1": "Body Infantil",
+        "campoDesc2": "Fun P",
+        "__v": 0
+    },
+    {
+        "_id": "635ac28aa4695edd1e89fda3",
+        "campoCod": 78900160,
+        "campoDesc1": "Body Infantil",
+        "campoDesc2": "Fun PP",
+        "__v": 0
+    },
+    {
+        "_id": "635ac293a4695edd1e89fda9",
+        "campoCod": 78900163,
+        "campoDesc1": "Body Infantil",
+        "campoDesc2": "Fun G",
+        "__v": 0
+    },
+    {
+        "_id": "635ac345a4695edd1e89fdb0",
+        "campoCod": 78900162,
+        "campoDesc1": "Body Infantil",
+        "campoDesc2": "Fun M",
+        "__v": 0
+    },
+    {
+        "_id": "635ac34da4695edd1e89fdb6",
+        "campoCod": 5120,
+        "campoDesc1": "Body Infantil",
+        "campoDesc2": "Fun RN",
+        "__v": 0
+    },
+    {
+        "_id": "635ac36fa4695edd1e89fdbc",
+        "campoCod": 78900135,
+        "campoDesc1": "Body Laranja ON",
+        "campoDesc2": "Inter x Nephew G",
+        "__v": 0
+    },
+    {
+        "_id": "635ac378a4695edd1e89fdc2",
+        "campoCod": 78900136,
+        "campoDesc1": "Body Laranja ON",
+        "campoDesc2": "Inter x Nephew GG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac385a4695edd1e89fdc8",
+        "campoCod": 78900134,
+        "campoDesc1": "Body Laranja ON",
+        "campoDesc2": "Inter x Nephew M",
+        "__v": 0
+    },
+    {
+        "_id": "635ac38da4695edd1e89fdce",
+        "campoCod": 78900133,
+        "campoDesc1": "Body Laranja ON",
+        "campoDesc2": "Inter x Nephew P",
+        "__v": 0
+    },
+    {
+        "_id": "635ac399a4695edd1e89fdd5",
+        "campoCod": 78900132,
+        "campoDesc1": "Body Laranja ON",
+        "campoDesc2": "Inter x Nephew PP",
+        "__v": 0
+    },
+    {
+        "_id": "635ac3aaa4695edd1e89fddb",
+        "campoCod": 78900137,
+        "campoDesc1": "Body Laranja ON",
+        "campoDesc2": "Inter x Nephew XGG",
+        "__v": 0
+    },
+    {
+        "_id": "635ac445a4695edd1e89fde1",
+        "campoCod": 200990,
+        "campoDesc1": "Bone Dobravel",
+        "campoDesc2": "Branco",
+        "__v": 0
+    },
+    {
+        "_id": "635ac455a4695edd1e89fde7",
+        "campoCod": 78900193,
+        "campoDesc1": "Bone High Freedo",
+        "campoDesc2": "Nude",
+        "__v": 0
+    },
+    {
+        "_id": "635ac461a4695edd1e89fded",
+        "campoCod": 78900192,
+        "campoDesc1": "Bone High Freedo",
+        "campoDesc2": "Preto",
+        "__v": 0
+    },
+    {
+        "_id": "635ac46ea4695edd1e89fdf3",
+        "campoCod": 200900,
+        "campoDesc1": "Bone Inter",
+        "campoDesc2": "Preto oficial",
+        "__v": 0
+    },
+    {
+        "_id": "635ac477a4695edd1e89fdf9",
+        "campoCod": 78900194,
+        "campoDesc1": "Bucket Flag",
+        "campoDesc2": "Dupla face ON",
+        "__v": 0
+    },
+    {
+        "_id": "635ac482a4695edd1e89fdff",
+        "campoCod": 78900206,
+        "campoDesc1": "Cafe GOURMET em",
+        "campoDesc2": "Graos",
+        "__v": 0
+    },
+    {
+        "_id": "635ac48ba4695edd1e89fe05",
+        "campoCod": 110002,
+        "campoDesc1": "Cafe RESERVA em",
+        "campoDesc2": "Graos",
+        "__v": 0
+    },
+    {
+        "_id": "635ac494a4695edd1e89fe0b",
+        "campoCod": 110003,
+        "campoDesc1": "Cafe Reserva   ",
+        "campoDesc2": "Torrado e Moido",
+        "__v": 0
+    },
+    {
+        "_id": "635ac49ea4695edd1e89fe10",
+        "campoCod": 777032,
+        "campoDesc1": "Cafeteira ",
+        "campoDesc2": "Cinza",
+        "__v": 0
+    },
+    {
+        "_id": "635ac4a7a4695edd1e89fe15",
+        "campoCod": 777033,
+        "campoDesc1": "Cafeteira",
+        "campoDesc2": " Preta",
+        "__v": 0
+    },
+    {
+        "_id": "635ac4b4a4695edd1e89fe1b",
+        "campoCod": 300190,
+        "campoDesc1": "Caixa Presente",
+        "campoDesc2": "Inter",
+        "__v": 0
+    },
+    {
+        "_id": "63654a458d9f52383b6e61c2",
+        "campoCod": 78900140,
+        "campoDesc1": "Calca Feminina Sar",
+        "campoDesc2": "arja ON Inter 40",
+        "__v": 0
+    },
+    {
+        "_id": "63654f4a8099227f689b20de",
+        "campoCod": 15552,
+        "campoDesc1": "55555",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "63655523231f403e8a080074",
+        "campoCod": 78900141,
+        "campoDesc1": "Calca Feminina Sar",
+        "campoDesc2": "arja ON Inter 42",
+        "__v": 0
+    },
+    {
+        "_id": "63655541231f403e8a08007a",
+        "campoCod": 78900100,
+        "campoDesc1": "Calca Moletom St",
+        "campoDesc2": "ripes ON G",
+        "__v": 0
+    },
+    {
+        "_id": "63655553231f403e8a08007f",
+        "campoCod": 78900101,
+        "campoDesc1": "Calca Moletom St",
+        "campoDesc2": "ripes ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655584231f403e8a080086",
+        "campoCod": 78900099,
+        "campoDesc1": "Calca Moletom St",
+        "campoDesc2": "ripes ON M",
+        "__v": 0
+    },
+    {
+        "_id": "6365559d231f403e8a08008d",
+        "campoCod": 78900098,
+        "campoDesc1": "Calca Moletom St",
+        "campoDesc2": "ripes ON P",
+        "__v": 0
+    },
+    {
+        "_id": "636555b3231f403e8a080094",
+        "campoCod": 78900097,
+        "campoDesc1": "Calca Moletom St",
+        "campoDesc2": "ripes ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "63655628231f403e8a08009d",
+        "campoCod": 78900102,
+        "campoDesc1": "Calca Moletom St",
+        "campoDesc2": "ripes ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655639231f403e8a0800a3",
+        "campoCod": 78900131,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON EGG",
+        "__v": 0
+    },
+    {
+        "_id": "6365564c231f403e8a0800a9",
+        "campoCod": 78900128,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON G",
+        "__v": 0
+    },
+    {
+        "_id": "63655660231f403e8a0800af",
+        "campoCod": 78900129,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655670231f403e8a0800b5",
+        "campoCod": 78900127,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON M",
+        "__v": 0
+    },
+    {
+        "_id": "63655682231f403e8a0800bc",
+        "campoCod": 78900126,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON P",
+        "__v": 0
+    },
+    {
+        "_id": "63655698231f403e8a0800c2",
+        "campoCod": 78900130,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636556a7231f403e8a0800c8",
+        "campoCod": 78900125,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON EGG",
+        "__v": 0
+    },
+    {
+        "_id": "636556b9231f403e8a0800ce",
+        "campoCod": 78900122,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON G",
+        "__v": 0
+    },
+    {
+        "_id": "636556cc231f403e8a0800d4",
+        "campoCod": 78900123,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "636556df231f403e8a0800da",
+        "campoCod": 78900121,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON M",
+        "__v": 0
+    },
+    {
+        "_id": "636556f2231f403e8a0800e1",
+        "campoCod": 78900120,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON P",
+        "__v": 0
+    },
+    {
+        "_id": "63655797231f403e8a0800ee",
+        "campoCod": 78900119,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "636557b6231f403e8a0800f4",
+        "campoCod": 78900124,
+        "campoDesc1": "Camisa Botão Psy",
+        "campoDesc2": "chedelic ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636557ca231f403e8a0800fb",
+        "campoCod": 78900019,
+        "campoDesc1": "Camisa Polo Femi",
+        "campoDesc2": "Preta PP",
+        "__v": 0
+    },
+    {
+        "_id": "636557ec231f403e8a080102",
+        "campoCod": 201034,
+        "campoDesc1": "Camisa Polo Masc",
+        "campoDesc2": "Cinza GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655802231f403e8a080108",
+        "campoCod": 201023,
+        "campoDesc1": "Camisa Polo Masc",
+        "campoDesc2": "Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "63655819231f403e8a08010e",
+        "campoCod": 201025,
+        "campoDesc1": "Camisa Polo Masc",
+        "campoDesc2": "Preta XGG",
+        "__v": 0
+    },
+    {
+        "_id": "6365583f231f403e8a080115",
+        "campoCod": 78900197,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Branca Patch G",
+        "__v": 0
+    },
+    {
+        "_id": "63655851231f403e8a08011b",
+        "campoCod": 78900198,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Branca Patch GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655863231f403e8a080120",
+        "campoCod": 78900196,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Branca Patch M",
+        "__v": 0
+    },
+    {
+        "_id": "63655877231f403e8a080126",
+        "campoCod": 78900195,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Branca Patch P",
+        "__v": 0
+    },
+    {
+        "_id": "63655889231f403e8a08012c",
+        "campoCod": 78900199,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Branca Patch XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636558bd231f403e8a080132",
+        "campoCod": 78900202,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Preta Patch G",
+        "__v": 0
+    },
+    {
+        "_id": "636558d2231f403e8a080138",
+        "campoCod": 78900203,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Preta Patch GG",
+        "__v": 0
+    },
+    {
+        "_id": "636558ee231f403e8a08013f",
+        "campoCod": 78900201,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Preta Patch M",
+        "__v": 0
+    },
+    {
+        "_id": "63655900231f403e8a080146",
+        "campoCod": 78900200,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Preta Patch P",
+        "__v": 0
+    },
+    {
+        "_id": "63655913231f403e8a08014c",
+        "campoCod": 78900204,
+        "campoDesc1": "Polo Pima Masc",
+        "campoDesc2": "Preta Patch XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655928231f403e8a080152",
+        "campoCod": 78900174,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Branca G",
+        "__v": 0
+    },
+    {
+        "_id": "63655940231f403e8a080158",
+        "campoCod": 78900175,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Branca GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655959231f403e8a08015f",
+        "campoCod": 78900173,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Branca M",
+        "__v": 0
+    },
+    {
+        "_id": "6365596c231f403e8a080165",
+        "campoCod": 78900172,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Branca P",
+        "__v": 0
+    },
+    {
+        "_id": "63655982231f403e8a08016c",
+        "campoCod": 78900176,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Branca XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655998231f403e8a080172",
+        "campoCod": 78900169,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "636559ab231f403e8a080178",
+        "campoCod": 78900170,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Preta GG",
+        "__v": 0
+    },
+    {
+        "_id": "636559c5231f403e8a08017e",
+        "campoCod": 78900168,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Preta M",
+        "__v": 0
+    },
+    {
+        "_id": "636559e6231f403e8a080185",
+        "campoCod": 78900167,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Preta P",
+        "__v": 0
+    },
+    {
+        "_id": "636559fa231f403e8a08018b",
+        "campoCod": 78900171,
+        "campoDesc1": "Camisa Polo Pima",
+        "campoDesc2": " Masc Preta XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655a1f231f403e8a080193",
+        "campoCod": 777017,
+        "campoDesc1": "Camisa Social ON",
+        "campoDesc2": "Mang Curt 3 Cors G",
+        "__v": 0
+    },
+    {
+        "_id": "63655a56231f403e8a080199",
+        "campoCod": 777015,
+        "campoDesc1": "Camisa Social Quad",
+        "campoDesc2": "Manga Curta G",
+        "__v": 0
+    },
+    {
+        "_id": "63655aad231f403e8a08019f",
+        "campoCod": 78900118,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON EGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655abe231f403e8a0801a5",
+        "campoCod": 78900115,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON G",
+        "__v": 0
+    },
+    {
+        "_id": "63655acf231f403e8a0801ab",
+        "campoCod": 78900116,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655ae3231f403e8a0801b1",
+        "campoCod": 78900114,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON M",
+        "__v": 0
+    },
+    {
+        "_id": "63655b07231f403e8a0801b7",
+        "campoCod": 78900113,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON P",
+        "__v": 0
+    },
+    {
+        "_id": "63655b19231f403e8a0801bd",
+        "campoCod": 78900112,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "63655c35231f403e8a0801c3",
+        "campoCod": 78900117,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "Bolso Ziper ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655c49231f403e8a0801c9",
+        "campoCod": 78900036,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca EGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655c5a231f403e8a0801cf",
+        "campoCod": 78900034,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca G",
+        "__v": 0
+    },
+    {
+        "_id": "63655c6c231f403e8a0801d5",
+        "campoCod": 78900037,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655c7e231f403e8a0801db",
+        "campoCod": 78900033,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca M",
+        "__v": 0
+    },
+    {
+        "_id": "63655c9c231f403e8a0801e1",
+        "campoCod": 78900032,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca P",
+        "__v": 0
+    },
+    {
+        "_id": "63655caf231f403e8a0801e7",
+        "campoCod": 78900031,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca PP",
+        "__v": 0
+    },
+    {
+        "_id": "63655cc1231f403e8a0801ed",
+        "campoCod": 78900035,
+        "campoDesc1": "Camiseta Basica ",
+        "campoDesc2": "ON Branca XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63655cd4231f403e8a0801f3",
+        "campoCod": 13000230,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Feminina G",
+        "__v": 0
+    },
+    {
+        "_id": "63655ce6231f403e8a0801f9",
+        "campoCod": 13000240,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Feminina GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655cf6231f403e8a0801ff",
+        "campoCod": 13000220,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Feminina M",
+        "__v": 0
+    },
+    {
+        "_id": "63655d08231f403e8a080205",
+        "campoCod": 13000210,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Feminina P",
+        "__v": 0
+    },
+    {
+        "_id": "63655d1d231f403e8a08020b",
+        "campoCod": 13000330,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Masc G",
+        "__v": 0
+    },
+    {
+        "_id": "63655d35231f403e8a080212",
+        "campoCod": 13000340,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Masc GG",
+        "__v": 0
+    },
+    {
+        "_id": "63655d49231f403e8a080218",
+        "campoCod": 13000320,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Masc M",
+        "__v": 0
+    },
+    {
+        "_id": "636561ee231f403e8a08021f",
+        "campoCod": 13000310,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Masc P",
+        "__v": 0
+    },
+    {
+        "_id": "63656b4b231f403e8a08022d",
+        "campoCod": 13000350,
+        "campoDesc1": "Camiseta de Gina",
+        "campoDesc2": "stica Masc XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63656bb7231f403e8a080233",
+        "campoCod": 20112630,
+        "campoDesc1": "Camiseta Fem Inter",
+        "campoDesc2": "Pig Simpli Branc G",
+        "__v": 0
+    },
+    {
+        "_id": "63656bc8231f403e8a080239",
+        "campoCod": 78900023,
+        "campoDesc1": "Camiseta Fem Panto",
+        "campoDesc2": "Sang Laran bran M",
+        "__v": 0
+    },
+    {
+        "_id": "63656bd7231f403e8a08023f",
+        "campoCod": 78900022,
+        "campoDesc1": "Camiseta Fem Panto",
+        "campoDesc2": "Sang Laran bran P",
+        "__v": 0
+    },
+    {
+        "_id": "63656be6231f403e8a080245",
+        "campoCod": 78900062,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja EGG",
+        "__v": 0
+    },
+    {
+        "_id": "63656bf7231f403e8a08024b",
+        "campoCod": 78900059,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja G",
+        "__v": 0
+    },
+    {
+        "_id": "63656c08231f403e8a080251",
+        "campoCod": 78900060,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja GG",
+        "__v": 0
+    },
+    {
+        "_id": "63656c1f231f403e8a080257",
+        "campoCod": 78900058,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja M",
+        "__v": 0
+    },
+    {
+        "_id": "63656c30231f403e8a08025d",
+        "campoCod": 78900057,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja P",
+        "__v": 0
+    },
+    {
+        "_id": "63656c63231f403e8a080263",
+        "campoCod": 78900056,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja PP",
+        "__v": 0
+    },
+    {
+        "_id": "63656c73231f403e8a080269",
+        "campoCod": 78900061,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Laranja XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63656c84231f403e8a08026f",
+        "campoCod": 78900069,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta EGG",
+        "__v": 0
+    },
+    {
+        "_id": "63656c95231f403e8a080275",
+        "campoCod": 78900066,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "63656ca6231f403e8a08027b",
+        "campoCod": 78900067,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta GG",
+        "__v": 0
+    },
+    {
+        "_id": "63656cb7231f403e8a080281",
+        "campoCod": 78900065,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta M",
+        "__v": 0
+    },
+    {
+        "_id": "63656cc7231f403e8a080287",
+        "campoCod": 78900064,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta P",
+        "__v": 0
+    },
+    {
+        "_id": "63656cd8231f403e8a08028c",
+        "campoCod": 78900063,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta PP",
+        "__v": 0
+    },
+    {
+        "_id": "63656ce9231f403e8a080293",
+        "campoCod": 78900068,
+        "campoDesc1": "Camiseta Freedom",
+        "campoDesc2": " ON Preta XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63656cf9231f403e8a080299",
+        "campoCod": 78900076,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White EGG",
+        "__v": 0
+    },
+    {
+        "_id": "63656d09231f403e8a08029f",
+        "campoCod": 78900073,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White G",
+        "__v": 0
+    },
+    {
+        "_id": "63656d5c231f403e8a0802a5",
+        "campoCod": 78900074,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White GG",
+        "__v": 0
+    },
+    {
+        "_id": "63656d6e231f403e8a0802a9",
+        "campoCod": 78900072,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White M",
+        "__v": 0
+    },
+    {
+        "_id": "63694bd5fab8bcba93e24658",
+        "campoCod": 78900071,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White P",
+        "__v": 0
+    },
+    {
+        "_id": "63694f61fab8bcba93e2465f",
+        "campoCod": 78900070,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White PP",
+        "__v": 0
+    },
+    {
+        "_id": "63694f76fab8bcba93e24665",
+        "campoCod": 78900075,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Off White XGG",
+        "__v": 0
+    },
+    {
+        "_id": "63694f8bfab8bcba93e2466b",
+        "campoCod": 78900029,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta EGG",
+        "__v": 0
+    },
+    {
+        "_id": "63694f9cfab8bcba93e24671",
+        "campoCod": 78900027,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "63694faffab8bcba93e24675",
+        "campoCod": 78900030,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta GG",
+        "__v": 0
+    },
+    {
+        "_id": "63694fc1fab8bcba93e2467d",
+        "campoCod": 78900026,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta M",
+        "__v": 0
+    },
+    {
+        "_id": "63694fddfab8bcba93e24683",
+        "campoCod": 78900025,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta P",
+        "__v": 0
+    },
+    {
+        "_id": "63694fedfab8bcba93e24689",
+        "campoCod": 78900024,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta PP",
+        "__v": 0
+    },
+    {
+        "_id": "63695047fab8bcba93e2468f",
+        "campoCod": 78900028,
+        "campoDesc1": "Camiseta Grafism",
+        "campoDesc2": "ON Preta XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636955dffab8bcba93e24695",
+        "campoCod": 12000880,
+        "campoDesc1": "Camiseta Inf Mag U",
+        "campoDesc2": "V Unissx Branc 14",
+        "__v": 0
+    },
+    {
+        "_id": "636955fefab8bcba93e2469c",
+        "campoCod": 120009,
+        "campoDesc1": "Camiseta Inf Fruta",
+        "campoDesc2": "UV Unissx Branc 1",
+        "__v": 0
+    },
+    {
+        "_id": "63695611fab8bcba93e246a2",
+        "campoCod": 12000970,
+        "campoDesc1": "Camiseta Inf Fruta",
+        "campoDesc2": "UV Unissx Branc 12",
+        "__v": 0
+    },
+    {
+        "_id": "636956cffab8bcba93e246b7",
+        "campoCod": 12000920,
+        "campoDesc1": "Camiseta Inf Fruta",
+        "campoDesc2": "UV Unissx Branc 3",
+        "__v": 0
+    },
+    {
+        "_id": "636956e7fab8bcba93e246bd",
+        "campoCod": 12000930,
+        "campoDesc1": "Camiseta Inf Fruta",
+        "campoDesc2": "UV Unissx Branc 4",
+        "__v": 0
+    },
+    {
+        "_id": "636956f7fab8bcba93e246c4",
+        "campoCod": 12000950,
+        "campoDesc1": "Camiseta Inf Fruta",
+        "campoDesc2": "UV Unissx Branc 8",
+        "__v": 0
+    },
+    {
+        "_id": "6369570afab8bcba93e246cb",
+        "campoCod": 201152,
+        "campoDesc1": "Camisa Masc Libe",
+        "campoDesc2": "Branca M ",
+        "__v": 0
+    },
+    {
+        "_id": "6369571afab8bcba93e246d2",
+        "campoCod": 201151,
+        "campoDesc1": "Camisa Masc Libe",
+        "campoDesc2": "Branca P ",
+        "__v": 0
+    },
+    {
+        "_id": "63695729fab8bcba93e246d8",
+        "campoCod": 78900207,
+        "campoDesc1": "Camisa Masc Pant",
+        "campoDesc2": "Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "63695743fab8bcba93e246df",
+        "campoCod": 78900041,
+        "campoDesc1": "Camiseta Regata ",
+        "campoDesc2": "Fem Free ON G",
+        "__v": 0
+    },
+    {
+        "_id": "63695759fab8bcba93e246e6",
+        "campoCod": 78900042,
+        "campoDesc1": "Camiseta Regata ",
+        "campoDesc2": "Fem Free ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "6369576cfab8bcba93e246ec",
+        "campoCod": 78900040,
+        "campoDesc1": "Camiseta Regata ",
+        "campoDesc2": "Fem Free ON M",
+        "__v": 0
+    },
+    {
+        "_id": "63695785fab8bcba93e246f2",
+        "campoCod": 78900039,
+        "campoDesc1": "Camiseta Regata ",
+        "campoDesc2": "Fem Free ON P",
+        "__v": 0
+    },
+    {
+        "_id": "63695798fab8bcba93e246f8",
+        "campoCod": 78900038,
+        "campoDesc1": "Camiseta Regata ",
+        "campoDesc2": "Fem Free ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "636957aafab8bcba93e246ff",
+        "campoCod": 78900043,
+        "campoDesc1": "Camiseta Regata ",
+        "campoDesc2": "Fem Free ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636957c2fab8bcba93e24705",
+        "campoCod": 777023,
+        "campoDesc1": "Caneca de porcel",
+        "campoDesc2": "ana Interpig",
+        "__v": 0
+    },
+    {
+        "_id": "636964abfab8bcba93e2470b",
+        "campoCod": 777012,
+        "campoDesc1": "Caneca Inter ",
+        "campoDesc2": "Empresas",
+        "__v": 0
+    },
+    {
+        "_id": "636964bdfab8bcba93e24711",
+        "campoCod": 777008,
+        "campoDesc1": "Caneca personali",
+        "campoDesc2": "zada Win - 325ml",
+        "__v": 0
+    },
+    {
+        "_id": "636964d1fab8bcba93e24718",
+        "campoCod": 777020,
+        "campoDesc1": "Caneca porcelana",
+        "campoDesc2": " INTER EMPRESAS",
+        "__v": 0
+    },
+    {
+        "_id": "636964e5fab8bcba93e2471e",
+        "campoCod": 600220,
+        "campoDesc1": "Canivet Suic Spart",
+        "campoDesc2": "an Victorino Preto",
+        "__v": 0
+    },
+    {
+        "_id": "636964fffab8bcba93e24725",
+        "campoCod": 400260,
+        "campoDesc1": "Capa Case Silico",
+        "campoDesc2": "ne AirPods Pro",
+        "__v": 0
+    },
+    {
+        "_id": "63696881fab8bcba93e24733",
+        "campoCod": 760010,
+        "campoDesc1": "Capa Anti Cinza",
+        "campoDesc2": "iPhone XS MAX",
+        "__v": 0
+    },
+    {
+        "_id": "63696896fab8bcba93e24739",
+        "campoCod": 7594,
+        "campoDesc1": "Capa Anti Laranja",
+        "campoDesc2": "iPhone 11 ",
+        "__v": 0
+    },
+    {
+        "_id": "636968abfab8bcba93e2473f",
+        "campoCod": 7598,
+        "campoDesc1": "Capa Anti Laranja",
+        "campoDesc2": "iPhone XR",
+        "__v": 0
+    },
+    {
+        "_id": "636968cafab8bcba93e24747",
+        "campoCod": 7600,
+        "campoDesc1": "Capa Anti Laranja",
+        "campoDesc2": "iPhone XS MAX",
+        "__v": 0
+    },
+    {
+        "_id": "636968ddfab8bcba93e2474d",
+        "campoCod": 344520000010,
+        "campoDesc1": "Capa GoCase Laranj",
+        "campoDesc2": "iPhone 13 PRO MAX",
+        "__v": 0
+    },
+    {
+        "_id": "636968eefab8bcba93e24753",
+        "campoCod": 344370000010,
+        "campoDesc1": "Capa GoCase Preta ",
+        "campoDesc2": "iPhone 13 PRO MAX",
+        "__v": 0
+    },
+    {
+        "_id": "636968fefab8bcba93e24759",
+        "campoCod": 71179000,
+        "campoDesc1": "Chaveiro Inter +",
+        "campoDesc2": " Interpig",
+        "__v": 0
+    },
+    {
+        "_id": "6369690efab8bcba93e24760",
+        "campoCod": 20018220,
+        "campoDesc1": "Chinelo - Surf ",
+        "campoDesc2": "Inter 35",
+        "__v": 0
+    },
+    {
+        "_id": "63696958fab8bcba93e24766",
+        "campoCod": 200581,
+        "campoDesc1": "Havaianas Kids",
+        "campoDesc2": "Astronauta 23/24",
+        "__v": 0
+    },
+    {
+        "_id": "63696973fab8bcba93e2476d",
+        "campoCod": 200582,
+        "campoDesc1": "Havaianas Kids",
+        "campoDesc2": "Astronauta 25/26",
+        "__v": 0
+    },
+    {
+        "_id": "63696984fab8bcba93e24772",
+        "campoCod": 200583,
+        "campoDesc1": "Havaianas Kids",
+        "campoDesc2": "Astronauta 27/28",
+        "__v": 0
+    },
+    {
+        "_id": "63696999fab8bcba93e24779",
+        "campoCod": 200584,
+        "campoDesc1": "Havaianas Kids",
+        "campoDesc2": "Astronauta 29/30",
+        "__v": 0
+    },
+    {
+        "_id": "636969b4fab8bcba93e2477f",
+        "campoCod": 200587,
+        "campoDesc1": "Havaianas Kids",
+        "campoDesc2": "Astronauta 35/36",
+        "__v": 0
+    },
+    {
+        "_id": "636969ccfab8bcba93e24785",
+        "campoCod": 78900187,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Branco 35/36",
+        "__v": 0
+    },
+    {
+        "_id": "636969dafab8bcba93e2478b",
+        "campoCod": 78900188,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Branco 37/38",
+        "__v": 0
+    },
+    {
+        "_id": "636969e8fab8bcba93e24790",
+        "campoCod": 78900189,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Branco 39/40",
+        "__v": 0
+    },
+    {
+        "_id": "636969f5fab8bcba93e24797",
+        "campoCod": 78900190,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Branco 41/42",
+        "__v": 0
+    },
+    {
+        "_id": "63696a07fab8bcba93e2479e",
+        "campoCod": 78900191,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Branco 43/44",
+        "__v": 0
+    },
+    {
+        "_id": "63696a15fab8bcba93e247a4",
+        "campoCod": 78900182,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Preto 35/36",
+        "__v": 0
+    },
+    {
+        "_id": "63696a2efab8bcba93e247aa",
+        "campoCod": 78900183,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Preto 37/38",
+        "__v": 0
+    },
+    {
+        "_id": "63696a4cfab8bcba93e247b0",
+        "campoCod": 78900184,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Preto 39/40",
+        "__v": 0
+    },
+    {
+        "_id": "63696a5cfab8bcba93e247b6",
+        "campoCod": 78900185,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Preto 41/42",
+        "__v": 0
+    },
+    {
+        "_id": "63696a6dfab8bcba93e247bc",
+        "campoCod": 78900186,
+        "campoDesc1": "Chinelo Slide ON",
+        "campoDesc2": "Preto 43/44",
+        "__v": 0
+    },
+    {
+        "_id": "63696a7cfab8bcba93e247c2",
+        "campoCod": 777038,
+        "campoDesc1": "Colarinho Decanter",
+        "campoDesc2": "Kit Presen In Café",
+        "__v": 0
+    },
+    {
+        "_id": "63696a9ffab8bcba93e247c9",
+        "campoCod": 130006,
+        "campoDesc1": "Colchonete Dobra",
+        "campoDesc2": "vel Inter",
+        "__v": 0
+    },
+    {
+        "_id": "63696ab6fab8bcba93e247d0",
+        "campoCod": 10000730,
+        "campoDesc1": "Coleira Pet",
+        "campoDesc2": "G",
+        "__v": 0
+    },
+    {
+        "_id": "63696acdfab8bcba93e247d6",
+        "campoCod": 10000720,
+        "campoDesc1": "Coleira Pet",
+        "campoDesc2": "M",
+        "__v": 0
+    },
+    {
+        "_id": "63696b02fab8bcba93e247dc",
+        "campoCod": 10000710,
+        "campoDesc1": "Coleira Pet",
+        "campoDesc2": "P",
+        "__v": 0
+    },
+    {
+        "_id": "63696b20fab8bcba93e247e2",
+        "campoCod": 78900007,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": "Horiz Com Patch G",
+        "__v": 0
+    },
+    {
+        "_id": "63696b30fab8bcba93e247e8",
+        "campoCod": 78900008,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": "Horiz Com Patch GG",
+        "__v": 0
+    },
+    {
+        "_id": "636aa1e0fab8bcba93e247ed",
+        "campoCod": 78900006,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": "Horiz Com Patch M",
+        "__v": 0
+    },
+    {
+        "_id": "636aa1f5fab8bcba93e247f3",
+        "campoCod": 78900005,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": "Horiz Com Patch P",
+        "__v": 0
+    },
+    {
+        "_id": "636aa202fab8bcba93e247fa",
+        "campoCod": 78900003,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": " Horizontal G",
+        "__v": 0
+    },
+    {
+        "_id": "636aa211fab8bcba93e24800",
+        "campoCod": 78900004,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": " Horizontal GG",
+        "__v": 0
+    },
+    {
+        "_id": "636aa21efab8bcba93e24806",
+        "campoCod": 78900002,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": " Horizontal M",
+        "__v": 0
+    },
+    {
+        "_id": "636aa316fab8bcba93e2480c",
+        "campoCod": 78900001,
+        "campoDesc1": "Colete Mas Metelas",
+        "campoDesc2": " Horizontal P",
+        "__v": 0
+    },
+    {
+        "_id": "636aa324fab8bcba93e24812",
+        "campoCod": 11000610,
+        "campoDesc1": "Conjunto Peitora",
+        "campoDesc2": "l e Guia Pet",
+        "__v": 0
+    },
+    {
+        "_id": "636aa336fab8bcba93e24818",
+        "campoCod": 11000530,
+        "campoDesc1": "Conjunto Peitora",
+        "campoDesc2": "l e Guia Pet G",
+        "__v": 0
+    },
+    {
+        "_id": "636aa347fab8bcba93e2481f",
+        "campoCod": 11000520,
+        "campoDesc1": "Conjunto Peitora",
+        "campoDesc2": "l e Guia Pet M",
+        "__v": 0
+    },
+    {
+        "_id": "636aa357fab8bcba93e24825",
+        "campoCod": 11000510,
+        "campoDesc1": "Conjunto Peitora",
+        "campoDesc2": "l e Guia Pet P",
+        "__v": 0
+    },
+    {
+        "_id": "636aa390fab8bcba93e24833",
+        "campoCod": 700010,
+        "campoDesc1": "Copo Menos 1 ",
+        "campoDesc2": "Lixo Inter",
+        "__v": 0
+    },
+    {
+        "_id": "636aa39efab8bcba93e2483a",
+        "campoCod": 860073,
+        "campoDesc1": "Copo Termico ",
+        "campoDesc2": "Inter - Preto",
+        "__v": 0
+    },
+    {
+        "_id": "636aa3abfab8bcba93e24840",
+        "campoCod": 600073,
+        "campoDesc1": "Cordinha Copo",
+        "campoDesc2": " Menos 1 Lixo",
+        "__v": 0
+    },
+    {
+        "_id": "636aa3b8fab8bcba93e24847",
+        "campoCod": 78900210,
+        "campoDesc1": "Corta Vento Masc",
+        "campoDesc2": "Inter e VLCS G",
+        "__v": 0
+    },
+    {
+        "_id": "636abc15fab8bcba93e24851",
+        "campoCod": 78900211,
+        "campoDesc1": "Corta Vento Masc",
+        "campoDesc2": "Inter e VLCS GG",
+        "__v": 0
+    },
+    {
+        "_id": "636abc22fab8bcba93e24858",
+        "campoCod": 78900209,
+        "campoDesc1": "Corta Vento Masc",
+        "campoDesc2": "Inter e VLCS M",
+        "__v": 0
+    },
+    {
+        "_id": "636abc31fab8bcba93e2485d",
+        "campoCod": 78900208,
+        "campoDesc1": "Corta Vento Masc",
+        "campoDesc2": "Inter e VLCS P",
+        "__v": 0
+    },
+    {
+        "_id": "636abc46fab8bcba93e24863",
+        "campoCod": 201043,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Laranja G",
+        "__v": 0
+    },
+    {
+        "_id": "636abc53fab8bcba93e24869",
+        "campoCod": 201044,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Laranja GG",
+        "__v": 0
+    },
+    {
+        "_id": "636abc63fab8bcba93e24871",
+        "campoCod": 201042,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Laranja M",
+        "__v": 0
+    },
+    {
+        "_id": "636abc7efab8bcba93e24879",
+        "campoCod": 201041,
+        "campoDesc1": "Corta Vento Unissex ",
+        "campoDesc2": "Laranja P",
+        "__v": 0
+    },
+    {
+        "_id": "636abc97fab8bcba93e24880",
+        "campoCod": 201040,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Laranja PP",
+        "__v": 0
+    },
+    {
+        "_id": "636abca5fab8bcba93e24888",
+        "campoCod": 201045,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Laranja XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636abcb2fab8bcba93e2488c",
+        "campoCod": 201053,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Preto G",
+        "__v": 0
+    },
+    {
+        "_id": "636abcbefab8bcba93e24894",
+        "campoCod": 201054,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Preto GG",
+        "__v": 0
+    },
+    {
+        "_id": "636abccffab8bcba93e2489a",
+        "campoCod": 201052,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Preto M",
+        "__v": 0
+    },
+    {
+        "_id": "636abcdafab8bcba93e248a0",
+        "campoCod": 201051,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Preto P",
+        "__v": 0
+    },
+    {
+        "_id": "636abce6fab8bcba93e248a6",
+        "campoCod": 201050,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Preto PP",
+        "__v": 0
+    },
+    {
+        "_id": "636abcf0fab8bcba93e248ad",
+        "campoCod": 201055,
+        "campoDesc1": "Corta Vento Unis",
+        "campoDesc2": "sex Preto XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636abcfffab8bcba93e248b4",
+        "campoCod": 78900109,
+        "campoDesc1": "Cropped Colors O",
+        "campoDesc2": "N G",
+        "__v": 0
+    },
+    {
+        "_id": "636abd0bfab8bcba93e248bb",
+        "campoCod": 78900110,
+        "campoDesc1": "Cropped Colors O",
+        "campoDesc2": "N GG",
+        "__v": 0
+    },
+    {
+        "_id": "636abd16fab8bcba93e248c1",
+        "campoCod": 78900108,
+        "campoDesc1": "Cropped Colors O",
+        "campoDesc2": "N M",
+        "__v": 0
+    },
+    {
+        "_id": "636abd28fab8bcba93e248c9",
+        "campoCod": 78900107,
+        "campoDesc1": "Cropped Colors O",
+        "campoDesc2": "N P",
+        "__v": 0
+    },
+    {
+        "_id": "636abd36fab8bcba93e248cf",
+        "campoCod": 78900106,
+        "campoDesc1": "Cropped Colors O",
+        "campoDesc2": "N PP",
+        "__v": 0
+    },
+    {
+        "_id": "636abd44fab8bcba93e248d5",
+        "campoCod": 78900111,
+        "campoDesc1": "Cropped Colors O",
+        "campoDesc2": "N XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636abd6ffab8bcba93e248db",
+        "campoCod": 78900050,
+        "campoDesc1": "Drink Orange Nat",
+        "campoDesc2": "ion",
+        "__v": 0
+    },
+    {
+        "_id": "636abd7cfab8bcba93e248e0",
+        "campoCod": 777010,
+        "campoDesc1": "Ecobag ",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636abd8efab8bcba93e248e6",
+        "campoCod": 777013,
+        "campoDesc1": "Ecobag Inter Emp",
+        "campoDesc2": "reas",
+        "__v": 0
+    },
+    {
+        "_id": "636abd9afab8bcba93e248ec",
+        "campoCod": 777021,
+        "campoDesc1": "Ecobag INTER EMP",
+        "campoDesc2": "RESAS",
+        "__v": 0
+    },
+    {
+        "_id": "636abda7fab8bcba93e248f2",
+        "campoCod": 777007,
+        "campoDesc1": "Folheto diversif",
+        "campoDesc2": "icacão",
+        "__v": 0
+    },
+    {
+        "_id": "636abdb3fab8bcba93e248f8",
+        "campoCod": 10170011,
+        "campoDesc1": "Garrafa Branca  ",
+        "campoDesc2": " Diferente 510ml",
+        "__v": 0
+    },
+    {
+        "_id": "636abdc3fab8bcba93e248fe",
+        "campoCod": 777036,
+        "campoDesc1": "Garrafa Metal Pr",
+        "campoDesc2": "eta",
+        "__v": 0
+    },
+    {
+        "_id": "636abdf2fab8bcba93e2490b",
+        "campoCod": 11070010,
+        "campoDesc1": "Garrafa Termica ",
+        "campoDesc2": "InterGrey 780 ml",
+        "__v": 0
+    },
+    {
+        "_id": "636abdfcfab8bcba93e24911",
+        "campoCod": 777037,
+        "campoDesc1": "General Kit",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636abe0bfab8bcba93e24917",
+        "campoCod": 777039,
+        "campoDesc1": "Guarda chuv",
+        "campoDesc2": "a invertido",
+        "__v": 0
+    },
+    {
+        "_id": "636d49a3fab8bcba93e2491c",
+        "campoCod": 15555,
+        "campoDesc1": "hy",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d49f7fab8bcba93e24922",
+        "campoCod": 10000630,
+        "campoDesc1": "Guia Pet",
+        "campoDesc2": "G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a12fab8bcba93e24928",
+        "campoCod": 10000620,
+        "campoDesc1": "Guia Pet",
+        "campoDesc2": "M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a1efab8bcba93e2492e",
+        "campoCod": 10000610,
+        "campoDesc1": "Guia Pet",
+        "campoDesc2": "P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a2cfab8bcba93e24934",
+        "campoCod": 777016,
+        "campoDesc1": "Insumos",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a35fab8bcba93e24939",
+        "campoCod": 777005,
+        "campoDesc1": "Intercel",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a57fab8bcba93e2493f",
+        "campoCod": 100020,
+        "campoDesc1": "InterPig - ",
+        "campoDesc2": "Laranja",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a76fab8bcba93e24946",
+        "campoCod": 100030,
+        "campoDesc1": "InterPig de Pelucia",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a86fab8bcba93e2494d",
+        "campoCod": 78900046,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Colors G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a91fab8bcba93e24953",
+        "campoCod": 78900047,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Colors GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4a9dfab8bcba93e24959",
+        "campoCod": 78900045,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Colors M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4aa8fab8bcba93e2495f",
+        "campoCod": 78900044,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Colors P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4ab6fab8bcba93e24966",
+        "campoCod": 78900054,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Cotelê ON G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4ac2fab8bcba93e2496c",
+        "campoCod": 78900055,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Cotelê ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4acdfab8bcba93e24972",
+        "campoCod": 78900053,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Cotelê ON M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4ad7fab8bcba93e24978",
+        "campoCod": 78900052,
+        "campoDesc1": "Jaqueta Cropped ",
+        "campoDesc2": "Cotelê ON P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4ae1fab8bcba93e2497e",
+        "campoCod": 201143,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS  Cinza G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4af1fab8bcba93e24984",
+        "campoCod": 201144,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS  Cinza GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4afdfab8bcba93e2498a",
+        "campoCod": 201142,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS  Cinza M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4b07fab8bcba93e24990",
+        "campoCod": 201141,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS  Cinza P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4b15fab8bcba93e24996",
+        "campoCod": 201133,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS Preta G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4b27fab8bcba93e2499c",
+        "campoCod": 201134,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS Preta GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4b37fab8bcba93e249a2",
+        "campoCod": 201132,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS Preta M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4b42fab8bcba93e249a8",
+        "campoCod": 201139,
+        "campoDesc1": "Jaqueta Inter e ",
+        "campoDesc2": "VLCS Preta P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4b57fab8bcba93e249ae",
+        "campoCod": 600190,
+        "campoDesc1": "Kit Abridor Vinho",
+        "campoDesc2": " Inter",
+        "__v": 0
+    },
+    {
+        "_id": "636d4bb6fab8bcba93e249b4",
+        "campoCod": 777029,
+        "campoDesc1": "kit: Weekend - ",
+        "campoDesc2": "Influenciadores",
+        "__v": 0
+    },
+    {
+        "_id": "636d4bc3fab8bcba93e249ba",
+        "campoCod": 6020,
+        "campoDesc1": "Maiô Infantil Co",
+        "campoDesc2": "racão Infinito 2",
+        "__v": 0
+    },
+    {
+        "_id": "636d4bcefab8bcba93e249c0",
+        "campoCod": 6040,
+        "campoDesc1": "Maiô Infantil Co",
+        "campoDesc2": "racão Infinito 4",
+        "__v": 0
+    },
+    {
+        "_id": "636d4bdffab8bcba93e249c6",
+        "campoCod": 100010,
+        "campoDesc1": "Manta Pet Divert",
+        "campoDesc2": "ida Laranja",
+        "__v": 0
+    },
+    {
+        "_id": "636d4beafab8bcba93e249cc",
+        "campoCod": 201122,
+        "campoDesc1": "Meia Estampada I",
+        "campoDesc2": "nterPig G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4bf5fab8bcba93e249d2",
+        "campoCod": 201121,
+        "campoDesc1": "Meia Estampada I",
+        "campoDesc2": "nterPig M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c02fab8bcba93e249d8",
+        "campoCod": 120006,
+        "campoDesc1": "Meia InterBaby -",
+        "campoDesc2": " RN",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c0ffab8bcba93e249df",
+        "campoCod": 78900181,
+        "campoDesc1": "Meia Stripes ON ",
+        "campoDesc2": "Branca",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c1cfab8bcba93e249e5",
+        "campoCod": 78900180,
+        "campoDesc1": "Meia Stripes ON ",
+        "campoDesc2": "Preta",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c2dfab8bcba93e249eb",
+        "campoCod": 78900205,
+        "campoDesc1": "Mochila Cooler ",
+        "campoDesc2": "Termica ",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c3afab8bcba93e249f1",
+        "campoCod": 78900103,
+        "campoDesc1": "Moleskine Colors",
+        "campoDesc2": " ON ",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c46fab8bcba93e249f7",
+        "campoCod": 78900154,
+        "campoDesc1": "Moleskine Freedo",
+        "campoDesc2": "m ON ",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c53fab8bcba93e249fd",
+        "campoCod": 777003,
+        "campoDesc1": "Moleskine Inter ",
+        "campoDesc2": "Empresas",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c65fab8bcba93e24a03",
+        "campoCod": 777022,
+        "campoDesc1": "Moleskine INTER ",
+        "campoDesc2": "EMPRESAS",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c71fab8bcba93e24a09",
+        "campoCod": 777025,
+        "campoDesc1": "Moleskine ON pre",
+        "campoDesc2": "to",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c7bfab8bcba93e24a0f",
+        "campoCod": 777024,
+        "campoDesc1": "Moleskine ON qua",
+        "campoDesc2": "driculado",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c87fab8bcba93e24a16",
+        "campoCod": 78900048,
+        "campoDesc1": "Moleskine Orange",
+        "campoDesc2": " Nation ",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c91fab8bcba93e24a1c",
+        "campoCod": 78900090,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON EGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4c9afab8bcba93e24a22",
+        "campoCod": 78900087,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cadfab8bcba93e24a28",
+        "campoCod": 78900088,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cbcfab8bcba93e24a2e",
+        "campoCod": 78900086,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cc6fab8bcba93e24a34",
+        "campoCod": 78900085,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cd3fab8bcba93e24a3a",
+        "campoCod": 78900084,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cddfab8bcba93e24a40",
+        "campoCod": 78900089,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Colors ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4ce6fab8bcba93e24a46",
+        "campoCod": 78900083,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON EGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cf1fab8bcba93e24a4c",
+        "campoCod": 78900080,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON G",
+        "__v": 0
+    },
+    {
+        "_id": "636d4cfbfab8bcba93e24a52",
+        "campoCod": 78900081,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4d12fab8bcba93e24a59",
+        "campoCod": 78900079,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON M",
+        "__v": 0
+    },
+    {
+        "_id": "636d4d1dfab8bcba93e24a5f",
+        "campoCod": 78900078,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON P",
+        "__v": 0
+    },
+    {
+        "_id": "636d4d2afab8bcba93e24a65",
+        "campoCod": 78900077,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "636d4d34fab8bcba93e24a6b",
+        "campoCod": 78900082,
+        "campoDesc1": "Moletom Canguru ",
+        "campoDesc2": "Psychedelic ON XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d4dfbfab8bcba93e24a73",
+        "campoCod": 78900094,
+        "campoDesc1": "Moletom Colors ON",
+        "campoDesc2": "G",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c0c67df1c2e68f61551",
+        "campoCod": 78900095,
+        "campoDesc1": "Moletom Colors ON",
+        "campoDesc2": "GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c1b67df1c2e68f61557",
+        "campoCod": 78900093,
+        "campoDesc1": "Moletom Colors ON",
+        "campoDesc2": "M",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c2a67df1c2e68f6155c",
+        "campoCod": 78900092,
+        "campoDesc1": "Moletom Colors ON",
+        "campoDesc2": "P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c4167df1c2e68f61562",
+        "campoCod": 78900091,
+        "campoDesc1": "Moletom Colors ON",
+        "campoDesc2": "PP",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c5d67df1c2e68f6156a",
+        "campoCod": 78900096,
+        "campoDesc1": "Moletom Colors ON",
+        "campoDesc2": "XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c7667df1c2e68f61570",
+        "campoCod": 201004,
+        "campoDesc1": "Moletom Inter Ci",
+        "campoDesc2": "nza Mescla Uni GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c8067df1c2e68f61576",
+        "campoCod": 201002,
+        "campoDesc1": "Moletom Inter Ci",
+        "campoDesc2": "nza Mescla Uni M",
+        "__v": 0
+    },
+    {
+        "_id": "636d5c8867df1c2e68f6157c",
+        "campoCod": 201001,
+        "campoDesc1": "Moletom Inter Ci",
+        "campoDesc2": "nza Mescla Uni P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ce667df1c2e68f61582",
+        "campoCod": 78900215,
+        "campoDesc1": "Moletom Pet Inter",
+        "campoDesc2": "G",
+        "__v": 0
+    },
+    {
+        "_id": "636d5cf167df1c2e68f61588",
+        "campoCod": 78900216,
+        "campoDesc1": "Moletom Pet Inter",
+        "campoDesc2": "GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5cfd67df1c2e68f6158e",
+        "campoCod": 78900214,
+        "campoDesc1": "Moletom Pet Inter",
+        "campoDesc2": "M",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d0567df1c2e68f61594",
+        "campoCod": 78900213,
+        "campoDesc1": "Moletom Pet Inter",
+        "campoDesc2": "P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d0f67df1c2e68f6159a",
+        "campoCod": 78900212,
+        "campoDesc1": "Moletom Pet Inter",
+        "campoDesc2": "PP",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d1e67df1c2e68f615a0",
+        "campoCod": 400270,
+        "campoDesc1": "Mouse Pad Neopre",
+        "campoDesc2": "ne",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d2a67df1c2e68f615a6",
+        "campoCod": 500020,
+        "campoDesc1": "Necessaire Trip",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d3b67df1c2e68f615aa",
+        "campoCod": 777002,
+        "campoDesc1": "Necessarie Preta",
+        "campoDesc2": " Interior Laranja",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d4467df1c2e68f615b2",
+        "campoCod": 777009,
+        "campoDesc1": "Negroni Jerez Cu",
+        "campoDesc2": "stom Bottle Digi",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d5167df1c2e68f615b9",
+        "campoCod": 78900166,
+        "campoDesc1": "Oculos Verão Int",
+        "campoDesc2": "er - Branco ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d5c67df1c2e68f615bf",
+        "campoCod": 78900165,
+        "campoDesc1": "Oculos Verão Int",
+        "campoDesc2": "er - Preto ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d6967df1c2e68f615c5",
+        "campoCod": 500210,
+        "campoDesc1": "Organizador de M",
+        "campoDesc2": "alas Inter",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d7267df1c2e68f615cb",
+        "campoCod": 777004,
+        "campoDesc1": "Organizador de M",
+        "campoDesc2": "alas pequeno",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d7f67df1c2e68f615d1",
+        "campoCod": 777014,
+        "campoDesc1": "Passaporte laran",
+        "campoDesc2": "ja",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d8a67df1c2e68f615d7",
+        "campoCod": 777011,
+        "campoDesc1": "Popsocket geomet",
+        "campoDesc2": "rico",
+        "__v": 0
+    },
+    {
+        "_id": "636d5d9867df1c2e68f615dd",
+        "campoCod": 777030,
+        "campoDesc1": "Porta passaporte",
+        "campoDesc2": " - Influenciador",
+        "__v": 0
+    },
+    {
+        "_id": "636d5da567df1c2e68f615e3",
+        "campoCod": 78900164,
+        "campoDesc1": "Porta Passaporte",
+        "campoDesc2": " de Couro Inter ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5dae67df1c2e68f615e9",
+        "campoCod": 150006,
+        "campoDesc1": "Rolha a Vacuo   ",
+        "campoDesc2": " para Garrafa",
+        "__v": 0
+    },
+    {
+        "_id": "636d5db867df1c2e68f615ef",
+        "campoCod": 5314,
+        "campoDesc1": "Roupao Felpudo I",
+        "campoDesc2": "nter G",
+        "__v": 0
+    },
+    {
+        "_id": "636d5dc267df1c2e68f615f5",
+        "campoCod": 5132,
+        "campoDesc1": "Roupao Felpudo I",
+        "campoDesc2": "nter P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5dd067df1c2e68f615fb",
+        "campoCod": 777027,
+        "campoDesc1": "Sacola kids",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d5dda67df1c2e68f61601",
+        "campoCod": 777006,
+        "campoDesc1": "Sacola M - Logo ",
+        "campoDesc2": "sol e cachorro",
+        "__v": 0
+    },
+    {
+        "_id": "636d5de567df1c2e68f61607",
+        "campoCod": 777026,
+        "campoDesc1": "Shape Maple Skate",
+        "campoDesc2": "Freedon Lar/Pret",
+        "__v": 0
+    },
+    {
+        "_id": "636d5df167df1c2e68f6160d",
+        "campoCod": 78900105,
+        "campoDesc1": "Shape Maple Graf",
+        "campoDesc2": "ismos ON ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5dfe67df1c2e68f61613",
+        "campoCod": 78900158,
+        "campoDesc1": "Shape Maple My St",
+        "campoDesc2": " of Freedom II ON",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e1167df1c2e68f61619",
+        "campoCod": 78900159,
+        "campoDesc1": "Shape Maple My",
+        "campoDesc2": " of Freedom II ON",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e1d67df1c2e68f6161f",
+        "campoCod": 78900104,
+        "campoDesc1": "Shape Maple My S",
+        "campoDesc2": "tate of Freedom ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e2b67df1c2e68f61626",
+        "campoCod": 78900157,
+        "campoDesc1": "Shape Maple Psyc",
+        "campoDesc2": "hedelic ON",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e3567df1c2e68f6162c",
+        "campoCod": 78900156,
+        "campoDesc1": "Shape Maple Smil",
+        "campoDesc2": "e ON ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e4067df1c2e68f61632",
+        "campoCod": 78900145,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Laranja G",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e4a67df1c2e68f61638",
+        "campoCod": 78900146,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Laranja GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e5467df1c2e68f6163e",
+        "campoCod": 78900144,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Laranja M",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e5e67df1c2e68f61645",
+        "campoCod": 78900143,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Laranja P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e6767df1c2e68f6164b",
+        "campoCod": 78900142,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Laranja PP",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e7167df1c2e68f61651",
+        "campoCod": 78900147,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Laranja XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e7f67df1c2e68f61657",
+        "campoCod": 78900152,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Preto GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e8a67df1c2e68f6165d",
+        "campoCod": 78900150,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Preto M",
+        "__v": 0
+    },
+    {
+        "_id": "636d5e9367df1c2e68f61663",
+        "campoCod": 78900149,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Preto P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ea267df1c2e68f6166a",
+        "campoCod": 78900148,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Preto PP",
+        "__v": 0
+    },
+    {
+        "_id": "636d5eac67df1c2e68f61670",
+        "campoCod": 78900153,
+        "campoDesc1": "Short Fem Flag ON",
+        "campoDesc2": " Preto XGG",
+        "__v": 0
+    },
+    {
+        "_id": "636d5eba67df1c2e68f61676",
+        "campoCod": 777001,
+        "campoDesc1": "Short Flag ON ",
+        "campoDesc2": " Laranja G",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ec567df1c2e68f6167d",
+        "campoCod": 777028,
+        "campoDesc1": "Short Flag ON ",
+        "campoDesc2": " Laranja M",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ed067df1c2e68f61683",
+        "campoCod": 777018,
+        "campoDesc1": "Short preto ON -",
+        "campoDesc2": "G",
+        "__v": 0
+    },
+    {
+        "_id": "636d5edd67df1c2e68f6168a",
+        "campoCod": 777019,
+        "campoDesc1": "Short preto ON -",
+        "campoDesc2": "P",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ee667df1c2e68f61690",
+        "campoCod": 78900155,
+        "campoDesc1": "Shoulder Bag ON ",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "636d5eef67df1c2e68f61696",
+        "campoCod": 78900049,
+        "campoDesc1": "Skate Grafismos ",
+        "campoDesc2": "ON ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ef967df1c2e68f6169d",
+        "campoCod": 78900051,
+        "campoDesc1": "Skate My State o",
+        "campoDesc2": "f Freedom ON ",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f0367df1c2e68f616a3",
+        "campoCod": 777031,
+        "campoDesc1": "Tag de mala - pe",
+        "campoDesc2": "rsonalizada infl",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f1367df1c2e68f616aa",
+        "campoCod": 500200,
+        "campoDesc1": "Tag de Mala     ",
+        "campoDesc2": "Inter Laranja",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f1c67df1c2e68f616b0",
+        "campoCod": 500190,
+        "campoDesc1": "Tag de Mala     ",
+        "campoDesc2": "Inter Preta",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f2f67df1c2e68f616b6",
+        "campoCod": 200371,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 33",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f3867df1c2e68f616bc",
+        "campoCod": 200372,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 34",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f4467df1c2e68f616c3",
+        "campoCod": 200373,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 35",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f4d67df1c2e68f616c9",
+        "campoCod": 200374,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 36",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f5967df1c2e68f616cf",
+        "campoCod": 200375,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 37",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f6367df1c2e68f616d5",
+        "campoCod": 200376,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 38",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f6d67df1c2e68f616db",
+        "campoCod": 200377,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 39",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f7667df1c2e68f616e1",
+        "campoCod": 200378,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 40",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f8067df1c2e68f616e7",
+        "campoCod": 200379,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 41",
+        "__v": 0
+    },
+    {
+        "_id": "636d5f9067df1c2e68f616ed",
+        "campoCod": 20037100,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 42",
+        "__v": 0
+    },
+    {
+        "_id": "636d5fb267df1c2e68f616f3",
+        "campoCod": 20037110,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 43",
+        "__v": 0
+    },
+    {
+        "_id": "636d5fbd67df1c2e68f616fa",
+        "campoCod": 20037120,
+        "campoDesc1": "Tênis Inter Greige",
+        "campoDesc2": "Sola Cinza 44",
+        "__v": 0
+    },
+    {
+        "_id": "636d5fc767df1c2e68f61700",
+        "campoCod": 200361,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 33",
+        "__v": 0
+    },
+    {
+        "_id": "636d5fd067df1c2e68f61707",
+        "campoCod": 200362,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 34",
+        "__v": 0
+    },
+    {
+        "_id": "636d5fdc67df1c2e68f6170d",
+        "campoCod": 200363,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 35",
+        "__v": 0
+    },
+    {
+        "_id": "636d5feb67df1c2e68f61715",
+        "campoCod": 200364,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 36",
+        "__v": 0
+    },
+    {
+        "_id": "636d5ff767df1c2e68f6171b",
+        "campoCod": 200365,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 37",
+        "__v": 0
+    },
+    {
+        "_id": "636d600267df1c2e68f61721",
+        "campoCod": 200366,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 38",
+        "__v": 0
+    },
+    {
+        "_id": "636d600c67df1c2e68f61727",
+        "campoCod": 200367,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 39",
+        "__v": 0
+    },
+    {
+        "_id": "636d601a67df1c2e68f6172d",
+        "campoCod": 200368,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 40",
+        "__v": 0
+    },
+    {
+        "_id": "636d602367df1c2e68f61733",
+        "campoCod": 200369,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 41",
+        "__v": 0
+    },
+    {
+        "_id": "636d602d67df1c2e68f61738",
+        "campoCod": 20036100,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 42",
+        "__v": 0
+    },
+    {
+        "_id": "636d603667df1c2e68f6173e",
+        "campoCod": 20036110,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 43",
+        "__v": 0
+    },
+    {
+        "_id": "636d603e67df1c2e68f61744",
+        "campoCod": 20036120,
+        "campoDesc1": "Tênis Inter Grigio",
+        "campoDesc2": "Sola Preta 44",
+        "__v": 0
+    },
+    {
+        "_id": "636d604e67df1c2e68f6174b",
+        "campoCod": 200981,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "35",
+        "__v": 0
+    },
+    {
+        "_id": "636d605d67df1c2e68f61752",
+        "campoCod": 200982,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "36",
+        "__v": 0
+    },
+    {
+        "_id": "636d607167df1c2e68f61757",
+        "campoCod": 200983,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "37",
+        "__v": 0
+    },
+    {
+        "_id": "636d607b67df1c2e68f6175d",
+        "campoCod": 200984,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "38",
+        "__v": 0
+    },
+    {
+        "_id": "636d608467df1c2e68f61763",
+        "campoCod": 200985,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "39",
+        "__v": 0
+    },
+    {
+        "_id": "636d609167df1c2e68f61768",
+        "campoCod": 200986,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "40",
+        "__v": 0
+    },
+    {
+        "_id": "636d609b67df1c2e68f6176e",
+        "campoCod": 200987,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "41",
+        "__v": 0
+    },
+    {
+        "_id": "636d60a267df1c2e68f61774",
+        "campoCod": 200988,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "42",
+        "__v": 0
+    },
+    {
+        "_id": "636d60ad67df1c2e68f6177a",
+        "campoCod": 200989,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "43",
+        "__v": 0
+    },
+    {
+        "_id": "636d60b767df1c2e68f6177f",
+        "campoCod": 20098100,
+        "campoDesc1": "Tênis Inter Nero",
+        "campoDesc2": "44",
+        "__v": 0
+    },
+    {
+        "_id": "636d60c067df1c2e68f61785",
+        "campoCod": 5135,
+        "campoDesc1": "Toalha Verao    ",
+        "campoDesc2": "Branca ",
+        "__v": 0
+    },
+    {
+        "_id": "636d60ce67df1c2e68f6178d",
+        "campoCod": 5410,
+        "campoDesc1": "Touca e Luva Inf",
+        "campoDesc2": "antil Frutas RN",
+        "__v": 0
+    },
+    {
+        "_id": "636d60d767df1c2e68f61793",
+        "campoCod": 5420,
+        "campoDesc1": "Touca e Luva Inf",
+        "campoDesc2": "antil Fun RN",
+        "__v": 0
+    },
+    {
+        "_id": "636d60e267df1c2e68f61799",
+        "campoCod": 78900219,
+        "campoDesc1": "Tshirt Fem InterPi",
+        "campoDesc2": "g Branca G",
+        "__v": 0
+    },
+    {
+        "_id": "636d60ed67df1c2e68f6179f",
+        "campoCod": 78900220,
+        "campoDesc1": "Tshirt Fem InterPi",
+        "campoDesc2": "g Branca GG",
+        "__v": 0
+    },
+    {
+        "_id": "636d60fe67df1c2e68f617a6",
+        "campoCod": 78900218,
+        "campoDesc1": "Tshirt Fem InterPig ",
+        "campoDesc2": "g Branca M",
+        "__v": 0
+    },
+    {
+        "_id": "636d610f67df1c2e68f617ac",
+        "campoCod": 78900217,
+        "campoDesc1": "Tshirt Fem InterPi",
+        "campoDesc2": "g Branca P",
+        "__v": 0
+    },
+    {
+        "_id": "637290ff2532075ccc708479",
+        "campoCod": 77701001,
+        "campoDesc1": "Camisa Botão Col",
+        "campoDesc2": "ors ON PP",
+        "__v": 0
+    },
+    {
+        "_id": "637291402532075ccc708484",
+        "campoCod": 77700978,
+        "campoDesc1": "AgendaInter 2022",
+        "campoDesc2": " Modelo 1",
+        "__v": 0
+    },
+    {
+        "_id": "6372916a2532075ccc70848a",
+        "campoCod": 77700979,
+        "campoDesc1": "AgendaInter 2022",
+        "campoDesc2": " Modelo 2",
+        "__v": 0
+    },
+    {
+        "_id": "637291772532075ccc708490",
+        "campoCod": 100006,
+        "campoDesc1": "Bolinha Cravo",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6372918c2532075ccc708496",
+        "campoCod": 500123,
+        "campoDesc1": "Bolsa Termica   ",
+        "campoDesc2": "PEQUENA",
+        "__v": 0
+    },
+    {
+        "_id": "6372919d2532075ccc70849c",
+        "campoCod": 500245,
+        "campoDesc1": "Bolsa Termica   ",
+        "campoDesc2": "GRANDE",
+        "__v": 0
+    },
+    {
+        "_id": "637291f22532075ccc7084a2",
+        "campoCod": 77700983,
+        "campoDesc1": "Bolsa Verão     ",
+        "campoDesc2": "2 em 1",
+        "__v": 0
+    },
+    {
+        "_id": "6372924f2532075ccc7084b0",
+        "campoCod": 10030006,
+        "campoDesc1": "Caderneta Pantone",
+        "campoDesc2": " SangueLaranja",
+        "__v": 0
+    },
+    {
+        "_id": "637292842532075ccc7084b6",
+        "campoCod": 77700985,
+        "campoDesc1": "Caderno Interpig",
+        "campoDesc2": " Laranja",
+        "__v": 0
+    },
+    {
+        "_id": "637292992532075ccc7084bc",
+        "campoCod": 300111,
+        "campoDesc1": "Caderno Laranja ",
+        "campoDesc2": "Simplifica Vida",
+        "__v": 0
+    },
+    {
+        "_id": "637292ab2532075ccc7084c2",
+        "campoCod": 400255,
+        "campoDesc1": "Capa Case       ",
+        "campoDesc2": "Silicone AirPods",
+        "__v": 0
+    },
+    {
+        "_id": "637292bd2532075ccc7084c8",
+        "campoCod": 300099,
+        "campoDesc1": "Chaveiro Inter  ",
+        "campoDesc2": "Couro",
+        "__v": 0
+    },
+    {
+        "_id": "637292ce2532075ccc7084ce",
+        "campoCod": 150004,
+        "campoDesc1": "Headfone Estereo",
+        "campoDesc2": " Preto Inter",
+        "__v": 0
+    },
+    {
+        "_id": "637292df2532075ccc7084d4",
+        "campoCod": 150005,
+        "campoDesc1": "Headfone Fosco  ",
+        "campoDesc2": "Bluetooth Preto",
+        "__v": 0
+    },
+    {
+        "_id": "637292f22532075ccc7084da",
+        "campoCod": 100009,
+        "campoDesc1": "Kit Higiene     ",
+        "campoDesc2": " Para Cachorro ",
+        "__v": 0
+    },
+    {
+        "_id": "637293032532075ccc7084e0",
+        "campoCod": 120002,
+        "campoDesc1": "Mascara Kids    ",
+        "campoDesc2": "Cachorrinho PRES",
+        "__v": 0
+    },
+    {
+        "_id": "6372933a2532075ccc7084eb",
+        "campoCod": 120004,
+        "campoDesc1": "Mascara Kids    ",
+        "campoDesc2": "Gamer PRESILHA",
+        "__v": 0
+    },
+    {
+        "_id": "6372934a2532075ccc7084f1",
+        "campoCod": 71110000,
+        "campoDesc1": "Pin Botton      ",
+        "campoDesc2": "Inter",
+        "__v": 0
+    },
+    {
+        "_id": "6372935b2532075ccc7084f7",
+        "campoCod": 400222,
+        "campoDesc1": "Popsocket       ",
+        "campoDesc2": "Interpig Branco",
+        "__v": 0
+    },
+    {
+        "_id": "6372936b2532075ccc7084fd",
+        "campoCod": 200095,
+        "campoDesc1": "Porta Alcool Gel",
+        "campoDesc2": " Couro Laranja",
+        "__v": 0
+    },
+    {
+        "_id": "6372937b2532075ccc708503",
+        "campoCod": 77700998,
+        "campoDesc1": "Porta cartao    ",
+        "campoDesc2": "laranja novo",
+        "__v": 0
+    },
+    {
+        "_id": "6372938b2532075ccc708509",
+        "campoCod": 77700999,
+        "campoDesc1": "Porta cartao    ",
+        "campoDesc2": "preto novo",
+        "__v": 0
+    },
+    {
+        "_id": "637293a02532075ccc70850f",
+        "campoCod": 998765,
+        "campoDesc1": "Sombrinha Inter ",
+        "campoDesc2": "Preta",
+        "__v": 0
+    },
+    {
+        "_id": "6380c0aafba9c6eb1f07c4ad",
+        "campoCod": 78900195,
+        "campoDesc1": "",
+        "campoDesc2": "",
+        "__v": 0
+    },
+    {
+        "_id": "6380c33cfba9c6eb1f07c4eb",
+        "campoCod": 78900221,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Preta P",
+        "__v": 0
+    },
+    {
+        "_id": "6380c36afba9c6eb1f07c503",
+        "campoCod": 78900222,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Preta M",
+        "__v": 0
+    },
+    {
+        "_id": "6380c37dfba9c6eb1f07c513",
+        "campoCod": 78900223,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Preta G ",
+        "__v": 0
+    },
+    {
+        "_id": "6380c3a8fba9c6eb1f07c521",
+        "campoCod": 78900224,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Preta GG",
+        "__v": 0
+    },
+    {
+        "_id": "6380c3bbfba9c6eb1f07c52f",
+        "campoCod": 78900225,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Branca P",
+        "__v": 0
+    },
+    {
+        "_id": "6380c3cbfba9c6eb1f07c53d",
+        "campoCod": 78900226,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Branca M",
+        "__v": 0
+    },
+    {
+        "_id": "6380c3d9fba9c6eb1f07c543",
+        "campoCod": 78900227,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Branca G ",
+        "__v": 0
+    },
+    {
+        "_id": "6380c3ecfba9c6eb1f07c551",
+        "campoCod": 78900228,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Branca GG",
+        "__v": 0
+    },
+    {
+        "_id": "6380c65dfba9c6eb1f07c561",
+        "campoCod": 78900229,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Preta EGG",
+        "__v": 0
+    },
+    {
+        "_id": "6380c679fba9c6eb1f07c570",
+        "campoCod": 78900230,
+        "campoDesc1": "Polo Dry Poliamida",
+        "campoDesc2": "Branca EGG",
+        "__v": 0
+    },
+    {
+        "_id": "6380cdc964c8df75d26b8a02",
+        "campoCod": 11,
+        "campoDesc1": "SupTest",
+        "campoDesc2": "InfTest",
+        "__v": 0
+    },
+    {
+        "_id": "6380ce0764c8df75d26b8a04",
+        "campoCod": 11,
+        "campoDesc1": "SupTest",
+        "campoDesc2": "InfTest",
+        "__v": 0
+    },
+    {
+        "_id": "6380d2fa682cf906d07dd54a",
+        "campoCod": 11,
+        "campoDesc1": "SupTest",
+        "campoDesc2": "InfTest",
+        "__v": 0
+    }
+]

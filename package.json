@@ -1,0 +1,17 @@
+{
+  "name": "stockproject",
+  "version": "1.0.0",
+  "description": "A Javascript Platform for App Development",
+  "main": "",
+  "scripts": {
+    "install:all": "npm run install:api && npm run install:web",
+    "install:api": "cd api && npm install",
+    "install:web": "cd web && npm install",
+    "start:api": "cd api && npm run start",
+    "debug:api": "cd api && npm run dev",
+    "start:web": "cd web && npm run start"
+  },
+  "keywords": [],
+  "author": "Tiago Paz",
+  "license": "PRIVATE"
+}
