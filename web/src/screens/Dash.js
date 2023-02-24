@@ -10,15 +10,13 @@ import storeLogo1 from "../assets/chicago.png";
 import storeLogo2 from "../assets/lakers.png";
 import storeLogo3 from "../assets/boston.png";
 import storeLogo4 from "../assets/NewYork.png";
-import loading from "../assets/loading.gif";
 import { optionsColumn, optionsTable, formattersTable } from "../constants/dashContants";
 import { findMax, removeListItem } from "../utils";
 import defaultOrdersRequest from '../constants/defaultOrdersRequest.json';
 import defaultProductsRequest from '../constants/defaultProductsRequest.json';
 // @mui material components
 import Grid from "@mui/material/Grid";
-import { Alert, Box, Button, Card, Typography } from "@mui/material";
-import { Container } from "@mui/system";
+import { Alert, Box, Button, Typography } from "@mui/material";
 
 //Ignore react gogle chart warms
 const originalWarn = console.warn;
@@ -147,7 +145,7 @@ function Dash() {
                 img = ""
                 qty = parseInt(listAtendidos[z].pItens[y].item.quantidade)
                 newProduct = [{ "item": product, "descricao": desc, "img": img, "qty": qty }]
-                objIndex = listOfProducts.findIndex((obj => obj.item == product));
+                objIndex = listOfProducts.findIndex((obj => obj.item === product));
                 if (objIndex === -1) {
                     Array.prototype.push.apply(listOfProducts, newProduct);
                 } else {
@@ -160,7 +158,7 @@ function Dash() {
         }
 
         // refresh products data
-        if (findMax(listOfProducts) != null && currentProducts != []) {
+        if (findMax(listOfProducts) !== null && currentProducts !== []) {
 
             listOfProducts = removeListItem(listOfProducts, "Personalização - Nome e Número") // remove item that are special
             let max1 = findMax(listOfProducts)
