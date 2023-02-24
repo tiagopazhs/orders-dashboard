@@ -158,7 +158,7 @@ function Dash() {
         }
 
         // refresh products data
-        if (findMax(listOfProducts) !== null && currentProducts !== []) {
+        if (findMax(listOfProducts) != null && currentProducts != []) {
 
             listOfProducts = removeListItem(listOfProducts, "Personalização - Nome e Número") // remove item that are special
             let max1 = findMax(listOfProducts)
