@@ -1,0 +1,17 @@
+Example of loader:
+{inStage === landscape &&
+    <img id="landscapeIcon"
+        src={inStage}
+        alt="visualização de paisagem simbolizando campo vazio."
+        onChange={setInStage}
+    />
+}
+{inStage === barCode &&
+    <img id="barcodeIcon"
+        src={inStage}
+        alt="visualização de paisagem simbolizando campo vazio."
+        onChange={setInStage}
+    />
+}
+
+Repository with a simple login: https://github.com/ilyaszm/react-login-register-page/blob/master/src/components/pages/LoginPage.js
