@@ -1,4 +1,4 @@
-import { Box, Card, Divider, Icon } from "@mui/material";
+import { Box, Divider } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { averageLoja } from "../utils/index.js";
 
