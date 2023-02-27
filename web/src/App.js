@@ -5,11 +5,11 @@ import Dash from './screens/Dash';
 
 function App () {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Dash />}  />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
