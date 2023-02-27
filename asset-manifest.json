@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/orders-dashboard/static/css/main.d29ae79d.css",
+    "main.js": "/orders-dashboard/static/js/main.2ef3f050.js",
+    "static/js/787.ab45fe3e.chunk.js": "/orders-dashboard/static/js/787.ab45fe3e.chunk.js",
+    "static/media/boston.png": "/orders-dashboard/static/media/boston.bd9224a1e659c3042995.png",
+    "static/media/NewYork.png": "/orders-dashboard/static/media/NewYork.fd5fee5d6fde4af3615c.png",
+    "static/media/lakers.png": "/orders-dashboard/static/media/lakers.2a185ecb62c7f14c5283.png",
+    "static/media/landscape.png": "/orders-dashboard/static/media/landscape.ad3e28ddb4d51f2d9746.png",
+    "static/media/chicago.png": "/orders-dashboard/static/media/chicago.b3d5f44514304c1f70fd.png",
+    "index.html": "/orders-dashboard/index.html",
+    "main.d29ae79d.css.map": "/orders-dashboard/static/css/main.d29ae79d.css.map",
+    "main.2ef3f050.js.map": "/orders-dashboard/static/js/main.2ef3f050.js.map",
+    "787.ab45fe3e.chunk.js.map": "/orders-dashboard/static/js/787.ab45fe3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29ae79d.css",
+    "static/js/main.2ef3f050.js"
+  ]
+}
