@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orders-dashboard/static/css/main.d29ae79d.css",
-    "main.js": "/orders-dashboard/static/js/main.e6547d1c.js",
+    "main.js": "/orders-dashboard/static/js/main.034ddeeb.js",
     "static/js/787.ab45fe3e.chunk.js": "/orders-dashboard/static/js/787.ab45fe3e.chunk.js",
     "static/media/boston.png": "/orders-dashboard/static/media/boston.bd9224a1e659c3042995.png",
     "static/media/NewYork.png": "/orders-dashboard/static/media/NewYork.fd5fee5d6fde4af3615c.png",
@@ -10,11 +10,11 @@
     "static/media/chicago.png": "/orders-dashboard/static/media/chicago.b3d5f44514304c1f70fd.png",
     "index.html": "/orders-dashboard/index.html",
     "main.d29ae79d.css.map": "/orders-dashboard/static/css/main.d29ae79d.css.map",
-    "main.e6547d1c.js.map": "/orders-dashboard/static/js/main.e6547d1c.js.map",
+    "main.034ddeeb.js.map": "/orders-dashboard/static/js/main.034ddeeb.js.map",
     "787.ab45fe3e.chunk.js.map": "/orders-dashboard/static/js/787.ab45fe3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d29ae79d.css",
-    "static/js/main.e6547d1c.js"
+    "static/js/main.034ddeeb.js"
   ]
 }
