@@ -1,7 +1,7 @@
 import React from "react";
 import { HashRouter, Routes, Route } from "react-router-dom";
 
-const Dash = require('./screens/Dash');
+import Dash from './screens/Dash';
 
 function App () {
   return (

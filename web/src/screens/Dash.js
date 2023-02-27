@@ -10,13 +10,14 @@ import storeLogo1 from "../assets/chicago.png";
 import storeLogo2 from "../assets/lakers.png";
 import storeLogo3 from "../assets/boston.png";
 import storeLogo4 from "../assets/NewYork.png";
-const { optionsColumn, optionsTable, formattersTable } = require("../constants/dashContants");
-const { findMax, removeListItem } = require("../utils");
-const defaultOrdersRequest = require('../constants/defaultOrdersRequest.json');
-const defaultProductsRequest = require('../constants/defaultProductsRequest.json');
+import { optionsColumn, optionsTable, formattersTable } from "../constants/dashContants";
+import defaultOrdersRequest from '../constants/defaultOrdersRequest.json';
+import defaultProductsRequest from '../constants/defaultProductsRequest.json';
 // @mui material components
-const Grid = require("@mui/material/Grid");
-const { Alert, Box, Button, Typography } = require("@mui/material");
+import Grid from "@mui/material/Grid";
+import { Alert, Box, Button, Typography } from "@mui/material";
+
+const { findMax, removeListItem } = require("../utils");
 
 //Ignore react gogle chart warms
 const originalWarn = console.warn;

@@ -1,5 +1,5 @@
 //return an averange of the time in a list
-function averageLoja(list){
+export function averageLoja(list){
     let sumTime = 0
     for (let i = 0; i < list.length; i++) {
         sumTime += list[i].pTempo
@@ -8,7 +8,7 @@ function averageLoja(list){
 }
 
 // return a list with out an item specifieded
-function removeListItem(list, itemToRemove) {
+export function removeListItem(list, itemToRemove) {
 
     let a = 0
     let newList = []
@@ -23,7 +23,7 @@ function removeListItem(list, itemToRemove) {
 }
 
 // return the max value in a list
-function findMax(list) {
+export function findMax(list) {
 
     let maxNum = 0
     let objIndex = 1
@@ -32,5 +32,3 @@ function findMax(list) {
 
     return list[objIndex]
 }
-
-module.exports = { averageLoja, removeListItem, findMax}
