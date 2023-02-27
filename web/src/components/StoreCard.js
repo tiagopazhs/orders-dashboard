@@ -1,6 +1,6 @@
 import { Box, Divider } from "@mui/material";
 import React, { useEffect, useState } from "react";
-import { averageLoja } from "../utils/index.js";
+const { averageLoja } = require('../utils/index');
 
 export default function StoreCard(props) {
 
