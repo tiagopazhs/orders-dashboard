@@ -1,5 +1,5 @@
 <h1>Orders dashboard<img src="https://cdn-icons-png.flaticon.com/512/1843/1843228.png" alt="red cross" style="height: 1em; margin-left: 0.4em; margin-top: 0.2em;"></h1>
-<p>This is an order panel created with graphs from the react-gogle-chart lib, the backend was based on the consumption of the Bling ERP api and if the token is not provided, the panel displays data from a fictitious basket store.</p>
+<p>This is an order panel created with graphs from the react-google-chart lib, the backend was based on the consumption of the Bling ERP api and if the token is not provided, the panel displays data from a fictitious basket store.</p>
 <h2>Purpose</h2>
 <p>The analysis of purchase orders can help to avoid future problems, so a dashboard is needed to analyze and make strategic decisions more quickly.</p>
 <h4>Demonstration:</h4>
@@ -18,7 +18,9 @@
 <h2>Technologies</h2>
 <p>We used the following technologies to build this project:</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,materialui,bootstrap,nodejs,express,postman,git" />
+    <img alt="Javascript, React, HTML, CSS, MaterialUI, Bootstrap, NodeJS, Express, Postman, Git"
+         src="https://skillicons.dev/icons?i=js,react,html,css,materialui,bootstrap,nodejs,express,postman,git"
+    />
 </p>
 
 <h2>Website</h2>
